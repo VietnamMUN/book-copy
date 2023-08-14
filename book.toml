@@ -1,0 +1,6 @@
+[book]
+authors = ["Viet Than"]
+language = "en"
+multilingual = false
+src = "src"
+title = "VietnamMUN Guide for Chairs"
