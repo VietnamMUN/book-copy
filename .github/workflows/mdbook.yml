@@ -46,6 +46,8 @@ jobs:
           echo `pwd`/mdbook >> $GITHUB_PATH
       - name: Build with mdBook
         run: mdbook build
+      - name: copy CNAME to book
+        run: cp CNAME ./book
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
