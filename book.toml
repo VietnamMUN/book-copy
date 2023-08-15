@@ -7,6 +7,6 @@ title = "VietnamMUN Guide for Organizers, Chairs, and Delegates"
 
 [output.html]
 git-repository-url = "https://github.com/VietnamMUN/book-copy"
-git-repository-icon = "building-un"
+git-repository-icon = "fa-building-un"
 edit-url-template = "https://github.com/VietnamMUN/book-copy/edit/main/{path}"
 # site-url = "/example-book/"
